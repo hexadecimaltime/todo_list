@@ -17,7 +17,7 @@ export default defineConfig({
   ],
   themeConfig: {
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/TimeOfMaster/todo_list' }
+      { icon: 'github', link: 'https://github.com/hexadecimaltime/todo_list' }
     ],
     nav: nav(),
     sidebar: {
